@@ -124,4 +124,4 @@ Environment: Jupyter Notebook
 
 # Author
 Joseph Hinga  Mwangi
-hingamwwangijoseph@gmail.com
+hingamwangijoseph@gmail.com
