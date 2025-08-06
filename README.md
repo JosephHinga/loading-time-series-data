@@ -1,6 +1,7 @@
 # loading-time-series-data
-🌡️ Time Series Forecasting of Daily Minimum Temperatures
-📌 Introduction
+# Time Series Forecasting of Daily Minimum Temperatures
+
+# Introduction
 This project applies time series analysis and forecasting techniques to predict the daily minimum temperatures in Sydney, Australia. Using 10 years of historical data, the project demonstrates the process of exploratory data analysis, model building, evaluation, and forecasting.
 
 The project is designed as part of my data science portfolio to highlight my expertise in:
@@ -34,7 +35,7 @@ Date: Daily calendar date (datetime index)
 
 Temp: Daily minimum temperature in Celsius (°C)
 
-🔎 Exploratory Data Analysis
+## Exploratory Data Analysis
 Key insights from the data:
 
 Trend: Long-term average remained relatively stable.
@@ -85,7 +86,7 @@ MAE (Mean Absolute Error)
 
 MAPE (Mean Absolute Percentage Error)
 
-📊 Results
+# Results
 Best Performing Model: SARIMA
 
 Performance Metrics:
@@ -96,21 +97,21 @@ MAE: Value obtained from model evaluation
 
 Visualization: SARIMA forecasts closely aligned with actual observed temperatures, capturing seasonal cycles effectively.
 
-📌 Key Insights
+ # Key Insights
 Sydney’s minimum temperatures show a clear yearly cycle.
 
 SARIMA outperforms simpler baseline models by leveraging seasonal differencing.
 
 Proper stationarity checks and ACF/PACF analysis are crucial for parameter selection in ARIMA models.
 
-🚀 Future Work
+ # Future Work
 Incorporate deep learning models such as LSTM/GRU for advanced forecasting.
 
 Add exogenous variables (humidity, rainfall, wind speed) for multivariate forecasting.
 
 Build a Streamlit dashboard for interactive real-time predictions.
 
-🛠️ Tech Stack
+# Tech Stack
 Python: Pandas, NumPy
 
 Visualization: Matplotlib, Seaborn
@@ -121,7 +122,6 @@ Evaluation: Scikit-learn metrics
 
 Environment: Jupyter Notebook
 
-👨‍💻 Author
-Joseph Mwangi
-📧 your.email@example.com
-🔗 [Your GitHub or LinkedIn Profile]
+# Author
+Joseph Hinga  Mwangi
+hingamwwangijoseph@gmail.com
