@@ -95,7 +95,7 @@ RMSE: Value obtained from model evaluation
 
 MAE: Value obtained from model evaluation
 
-Visualization: SARIMA forecasts closely aligned with actual observed temperatures, capturing seasonal cycles effectively.
+Visualization: SARIMA forecasts are closely aligned with actual observed temperatures, capturing seasonal cycles effectively.
 
  # Key Insights
 Sydney’s minimum temperatures show a clear yearly cycle.
